@@ -9,3 +9,4 @@ passos={
  
 for i, passo in enumerate(passos, start=1):
   print(f"{i},{passo}") 
+
